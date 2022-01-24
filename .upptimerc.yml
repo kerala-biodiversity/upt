@@ -5,6 +5,8 @@ repo: upt # The name of this repository
 sites:
   - name: ferns
     url: https://ferns.org.in
+  - name: kbmn
+    url: http://www.kbmn.in/
 assignees : # Users to assign downtime issues (optional)
   - joicemjoseph
 
@@ -19,7 +21,7 @@ status-website:
   introMessage: This status page for kerala biodiversity family websites
   navbar:
     - title: Status
-      href: /
+      href: /upt
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
