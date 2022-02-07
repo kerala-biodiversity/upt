@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/ferns.org.in",
     "slug": "ferns",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.13%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 790,
-    "timeDay": 758,
-    "timeWeek": 702,
-    "timeMonth": 790,
-    "timeYear": 790,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 783,
+    "timeDay": 663,
+    "timeWeek": 701,
+    "timeMonth": 783,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2022-02-05": 13
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 569,
-    "timeWeek": 269,
-    "timeMonth": 261,
-    "timeYear": 261,
+    "time": 259,
+    "timeDay": 233,
+    "timeWeek": 254,
+    "timeMonth": 259,
+    "timeYear": 259,
     "dailyMinutesDown": {}
   }
 ]
