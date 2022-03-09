@@ -26,17 +26,17 @@
     "url": "http://www.kbmn.in/",
     "icon": "https://favicons.githubusercontent.com/www.kbmn.in",
     "slug": "kbmn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "99.12%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 407,
-    "timeDay": 1369,
-    "timeWeek": 731,
-    "timeMonth": 496,
-    "timeYear": 407,
+    "time": 445,
+    "timeDay": 1588,
+    "timeWeek": 882,
+    "timeMonth": 552,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2022-03-09": 13
     }
