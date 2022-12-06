@@ -1,7 +1,7 @@
 url: http://www.kbmn.in/
-status: up
-code: 200
-responseTime: 352
-lastUpdated: 2022-12-05T23:08:50.303Z
+status: down
+code: 500
+responseTime: 3223
+lastUpdated: 2022-12-06T18:31:53.557Z
 startTime: Mon Jan 24 2022 10:58:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
