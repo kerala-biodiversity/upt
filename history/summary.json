@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 955,
-    "timeDay": 693,
-    "timeWeek": 652,
-    "timeMonth": 715,
+    "timeDay": 798,
+    "timeWeek": 679,
+    "timeMonth": 717,
     "timeYear": 942,
     "dailyMinutesDown": {
       "2023-04-21": 17,
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kbmn.in.ico",
     "slug": "kbmn",
     "status": "down",
-    "uptime": "97.99%",
+    "uptime": "97.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.73%",
-    "uptimeYear": "97.49%",
+    "uptimeMonth": "68.43%",
+    "uptimeYear": "97.24%",
     "time": 446,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 341,
-    "timeYear": 424,
+    "timeYear": 423,
     "dailyMinutesDown": {
-      "2023-05-30": 65,
+      "2023-05-31": 71,
+      "2023-05-30": 1440,
       "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
@@ -79,8 +80,7 @@
       "2022-06-04": 75,
       "2022-06-03": 92,
       "2022-06-02": 11,
-      "2022-06-01": 275,
-      "2022-05-31": 18
+      "2022-06-01": 275
     }
   }
 ]
