@@ -6,15 +6,15 @@
     "slug": "ferns",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.15%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.89%",
     "time": 991,
-    "timeDay": 2264,
-    "timeWeek": 1205,
-    "timeMonth": 1170,
-    "timeYear": 1047,
+    "timeDay": 724,
+    "timeWeek": 1216,
+    "timeMonth": 1171,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2024-05-20": 12,
       "2024-05-02": 13,
@@ -52,12 +52,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.02%",
+    "uptimeYear": "92.19%",
     "time": 390,
-    "timeDay": 82,
-    "timeWeek": 255,
-    "timeMonth": 306,
-    "timeYear": 408,
+    "timeDay": 113,
+    "timeWeek": 227,
+    "timeMonth": 300,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2024-04-02": 12,
       "2024-03-16": 19,
@@ -93,8 +93,7 @@
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
-      "2023-05-24": 1440,
-      "2023-05-23": 1440
+      "2023-05-24": 1440
     }
   }
 ]
