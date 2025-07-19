@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 988,
-    "timeDay": 1897,
-    "timeWeek": 1001,
-    "timeMonth": 691,
-    "timeYear": 946,
+    "timeDay": 506,
+    "timeWeek": 994,
+    "timeMonth": 692,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2025-03-12": 28,
       "2025-01-19": 18,
@@ -31,8 +31,7 @@
       "2024-07-26": 26,
       "2024-07-23": 20,
       "2024-07-22": 60,
-      "2024-07-21": 122,
-      "2024-07-19": 59
+      "2024-07-21": 122
     }
   },
   {
@@ -41,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kbmn.in.ico",
     "slug": "kbmn",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 731,
-    "timeDay": 377,
-    "timeWeek": 416,
-    "timeMonth": 320,
+    "time": 730,
+    "timeDay": 212,
+    "timeWeek": 397,
+    "timeMonth": 323,
     "timeYear": 845,
     "dailyMinutesDown": {
       "2025-06-15": 40,
@@ -80,8 +79,7 @@
       "2025-01-08": 12,
       "2024-11-30": 30,
       "2024-07-22": 23,
-      "2024-07-21": 82,
-      "2024-07-19": 15
+      "2024-07-21": 82
     }
   }
 ]
