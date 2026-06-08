@@ -4,17 +4,17 @@
     "url": "https://ferns.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/ferns.org.in.ico",
     "slug": "ferns",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.90%",
-    "time": 761,
-    "timeDay": 584,
-    "timeWeek": 789,
-    "timeMonth": 762,
-    "timeYear": 746,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "79.11%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.85%",
+    "time": 760,
+    "timeDay": 572,
+    "timeWeek": 760,
+    "timeMonth": 756,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2025-07-20": 17,
       "2025-07-22": 12,
@@ -28,7 +28,8 @@
       "2026-02-24": 50,
       "2026-04-04": 58,
       "2026-05-10": 109,
-      "2026-05-19": 67
+      "2026-05-19": 67,
+      "2026-06-08": 301
     }
   },
   {
@@ -46,7 +47,7 @@
     "timeDay": 284,
     "timeWeek": 199,
     "timeMonth": 226,
-    "timeYear": 648,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2025-06-09": 202,
       "2025-06-10": 46,
