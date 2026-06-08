@@ -11,10 +11,10 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.90%",
     "time": 763,
-    "timeDay": 897,
-    "timeWeek": 811,
-    "timeMonth": 765,
-    "timeYear": 745,
+    "timeDay": 584,
+    "timeWeek": 789,
+    "timeMonth": 762,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-07-20": 17,
       "2025-07-22": 12,
@@ -36,19 +36,18 @@
     "url": "http://www.kbmn.in/",
     "icon": "https://icons.duckduckgo.com/ip3/www.kbmn.in.ico",
     "slug": "kbmn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.80%",
-    "time": 722,
-    "timeDay": 303,
-    "timeWeek": 178,
-    "timeMonth": 227,
-    "timeYear": 641,
+    "uptimeYear": "99.81%",
+    "time": 723,
+    "timeDay": 145,
+    "timeWeek": 167,
+    "timeMonth": 220,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2025-06-08": 69,
       "2025-06-09": 202,
       "2025-06-10": 46,
       "2025-06-11": 73,
@@ -56,7 +55,8 @@
       "2025-06-13": 156,
       "2025-06-14": 236,
       "2025-06-15": 40,
-      "2026-05-23": 61
+      "2026-05-23": 61,
+      "2026-06-08": 0
     }
   }
 ]
